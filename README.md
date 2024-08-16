@@ -15,7 +15,8 @@ Welcome to **Happy Farmers**! This mobile application empowers farmers to sell t
 
 ## Screenshots
 
-**Coming Soon**
+- **Photo's are coming soon**
+- **Figma File** - [Click Here](https://www.figma.com/design/HfaLN11atyU9BlJgi7h8C9/Farmer-Sol?node-id=0-1)
 
 
 ## Getting Started
