@@ -57,7 +57,7 @@ Before you begin, ensure you have met the following requirements:
 ## Contributing
 
 - **GitHub** - [karmpatel18](https://github.com/karmpatel18)
-- **GitHub** - [YuvrajSinh245](https://github.com/YuvrajSinh245)
+- **GitHub** - [YuvrajSinh345](https://github.com/YuvrajSinh245)
 - **GitHub** - [Yashmevada2807](https://github.com/Yashmevada2807)
 - **GitHub** - [krish](https://github.com/)
 
